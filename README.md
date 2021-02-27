@@ -12,7 +12,7 @@
 
  [MMS (1).csv](https://github.com/QAZASDEDC/TopoMAD/blob/master/DatasetUpdate/MMS%20(1).csv) : metrics of MMS
 
- [MMS_topology.pk](https://github.com/QAZASDEDC/TopoMAD/blob/master/DatasetUpdate/MMS_topology.pk) : topology of MMS with tuples reprensented as an edge array
+ [MMS_topology.pk](https://github.com/QAZASDEDC/TopoMAD/blob/master/DatasetUpdate/MMS_topology.pk) : topology of MMS reprensented as an edge array
  
 ## How to Open the Datasets
 
